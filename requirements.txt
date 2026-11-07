@@ -1,0 +1,5 @@
+# Versions used for the measurements in README (Python 3.11, macOS arm64).
+torch==2.15.0
+pyannote.audio==4.0.7
+soundfile==0.14.0
+huggingface_hub==2.4.0
