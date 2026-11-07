@@ -1,0 +1,30 @@
+# Real data never goes into the repo
+*.m4a
+*.mp3
+*.wav
+*.mp4
+*.aac
+*.flac
+*.ogg
+Transcripts/
+Audio/
+*.log
+*_diarized.txt
+!examples/sample_diarized.txt
+.processed/
+.transcription.lock
+.transcription-dialog.lock
+
+# Benchmark outputs
+*.rttm
+
+# Models, caches, secrets
+*.bin
+.cache/
+huggingface/
+.env
+
+# Python / macOS
+__pycache__/
+.venv/
+.DS_Store
