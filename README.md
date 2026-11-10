@@ -151,6 +151,12 @@ The scripts in `scripts/` are the working versions I use. `run_transcription.sh`
 
 The repository holds scripts and documentation only: no real recordings or transcripts. The community-1 model is distributed under CC BY 4.0; attribution is in `NOTICE.md`.
 
+## 11. Articles about this project
+
+- [dev.to](ССЫЛКА_НА_DEV_TO): technical write-up in English.
+- [Medium](https://kateglazkova.medium.com/how-i-made-local-transcription-4-4-faster-on-a-macbook-air-fa07c49ba8e8): the same story in English.
+- [vc.ru](https://vc.ru/id6131754/3246325-kak-uskorit-rasshifrovku-audio-na-mac-bez-oblaka): shorter version in Russian, for product and marketing people.
+
 ---
 
 ## For machines: structured summary
