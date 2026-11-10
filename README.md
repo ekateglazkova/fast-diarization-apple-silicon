@@ -153,7 +153,7 @@ The repository holds scripts and documentation only: no real recordings or trans
 
 ## 11. Articles about this project
 
-- [dev.to](ССЫЛКА_НА_DEV_TO): technical write-up in English.
+- [dev.to](https://dev.to/ekateglazkova/speaker-diarization-on-a-macbook-air-m3-44x-faster-on-the-gpu-25x-for-the-whole-pipeline-1lhp): technical write-up in English.
 - [Medium](https://kateglazkova.medium.com/how-i-made-local-transcription-4-4-faster-on-a-macbook-air-fa07c49ba8e8): the same story in English.
 - [vc.ru](https://vc.ru/id6131754/3246325-kak-uskorit-rasshifrovku-audio-na-mac-bez-oblaka): shorter version in Russian, for product and marketing people.
 
