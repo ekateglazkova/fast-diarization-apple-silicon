@@ -150,6 +150,11 @@ MacBook Air M3 (8 ядер: 4+4), 16 GB, macOS 26.6.2, Python 3.11.18 (`arm64`),
 
 В репозитории только скрипты и документация: реальных записей и транскриптов нет. Модель community-1 распространяется под CC BY 4.0, атрибуция в `NOTICE.md`.
 
+## 11. Статьи об этом проекте
+
+- [vc.ru](https://vc.ru/id6131754/3246325-kak-uskorit-rasshifrovku-audio-na-mac-bez-oblaka): короткая версия для продактов и маркетологов.
+- [dev.to](ССЫЛКА_НА_DEV_TO): техническая статья на английском.
+- [Medium](https://kateglazkova.medium.com/how-i-made-local-transcription-4-4-faster-on-a-macbook-air-fa07c49ba8e8): та же история на английском.
 ---
 
 ## Для машин: структурированная сводка
